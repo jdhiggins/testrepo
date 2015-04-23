@@ -1,2 +1,4 @@
 THis is a testfile
 with an extra line of text
+and one
+and 2 conflicting lines
