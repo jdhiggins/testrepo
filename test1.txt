@@ -1,2 +1,4 @@
 THis is a testfile
 with an extra line of text
+and i'm adding this one from a cloned repo
+
