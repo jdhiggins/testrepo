@@ -2,3 +2,5 @@ THis is a testfile
 with an extra line of text
 and i'm adding this one from a cloned repo
 I'm making a change in master
+I decided to keep the master change
+
